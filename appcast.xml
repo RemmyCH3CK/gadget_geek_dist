@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>GadgetGeek</title>
+    <link>https://remmych3ck.github.io/gadget_geek_dist/appcast.xml</link>
+    <description>Sparkle 2 update feed for GadgetGeek (personal macOS productivity app).</description>
+    <language>en</language>
+  </channel>
+</rss>
